@@ -10,27 +10,29 @@ body {
 }
 
 main {
-    width: 940px;
-    margin: 0 auto;
+    width: 500px;
+    left: 500px;
 }
 
 form {
-    margin: 40px 0;
+    
 }
 
 form label {
-    display: block;
+    display: flex;
     font-size: 16px;
-    margin: 0 0 10px;
 
 }
 
 form input {
-    display: block;
+    display: ;
     margin: 0 0 20px;
     padding: 10px 150px; 
 }
-
+.form {
+    background-color: white;
+    left: 500px;
+}
 #firstname {
 
 }
